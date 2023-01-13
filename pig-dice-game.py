@@ -1,4 +1,3 @@
-from random import randint, choice
 from time import sleep
 
 def game_start():
